@@ -5,7 +5,7 @@ Ruby Machine Learning
 
 **Making apps smarter.**
 
-![alt tag](https://raw.githubusercontent.com/hsgubert/ruby_machine_learning/master/images/welcome_image.jpeg)
+![alt tag](https://raw.githubusercontent.com/hsgubert/ruby_machine_learning/master/images/welcome_image.png)
 
 Gem to build simple regressors and classifiers into your application, without necessarily having to understand all the math behind.
 
